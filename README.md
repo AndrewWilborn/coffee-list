@@ -1,4 +1,4 @@
-# Wine App with React
+# Coffee App with React
 
 [![screen shot](./public/images/readme.png)](https://coffee-menu-ajw.web.app/)
 
